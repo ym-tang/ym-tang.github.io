@@ -215,8 +215,8 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: default
-      author_profile: false
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -231,7 +231,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: default
       author_profile: false
       share: true
       comments: true
