@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-#For more info
-------
-I'm a first-year PhD candidate at [Depa. of Math.](https://math.sustech.edu.cn/), [Southern University of Science and Technology](http://www.sustech.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+# 黑体可以在前后写几个短下划线
+
+I'm a first-year PhD candidate at [Depa. of Math.](https://math.sustech.edu.cn/), [Southern University of Science and Technology](http://www.sustech.edu.cn/). My research interest includes Galois representation and p-adic Hodge theory.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
