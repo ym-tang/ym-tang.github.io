@@ -197,7 +197,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults，是否显示侧边栏可通过author_profile后的true或default转变
+# Defaults，是否显示侧边栏可通过author_profile后的true或faulse转变
 defaults:
   # _posts
   - scope:
