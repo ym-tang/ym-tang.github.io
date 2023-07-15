@@ -197,7 +197,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults，是否显示侧边栏可通过author_profile后的true或faulse转变
+# Defaults，是否显示侧边栏可通过author_profile后的true或false转变
 defaults:
   # _posts
   - scope:
@@ -216,7 +216,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
