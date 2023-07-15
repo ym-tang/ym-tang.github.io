@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Personal page of Yimeng"
-excerpt: "Welcome to my personal page :D"
+title: "Welcome to my personal page :D"
+excerpt: "1"
 author_profile: true
 redirect_from: 
   - /about/
