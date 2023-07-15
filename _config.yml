@@ -197,7 +197,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
+# Defaults，是否显示侧边栏可通过author_profile后的true或default转变
 defaults:
   # _posts
   - scope:
@@ -232,7 +232,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: default
       share: true
       comments: true
   # _portfolio
