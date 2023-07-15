@@ -14,8 +14,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : "Wellcome to my personal page"  # &description 
+name                     : &name "Yimeng TANG"
+description              : &description "Wellcome to my personal page"  # &description 
 url                      : https://ym-tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ym-tang/ym-tang.github.io"
