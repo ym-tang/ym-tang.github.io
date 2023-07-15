@@ -14,4 +14,4 @@ I'm a first-year PhD candidate at [Depa. of Math.](https://math.sustech.edu.cn/)
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Email address: yimeng.tang.math@gmail.com
+Email address: [yimeng.tang.math@gmail.com]
