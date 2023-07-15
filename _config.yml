@@ -249,7 +249,10 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: splash
+      classes:
+        - landing
+        - dark-theme
       author_profile: true
       share: true
 
