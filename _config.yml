@@ -206,16 +206,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: default
       author_profile: false
   # _teaching
   - scope:
